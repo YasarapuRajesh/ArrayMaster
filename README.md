@@ -32,7 +32,7 @@ The application supports the following array operations:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/ArrayMaster.git
+   git clone https://github.com/yasarapurajesh/ArrayMaster.git
    cd ArrayMaster
    ```
 
