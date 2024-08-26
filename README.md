@@ -52,15 +52,3 @@ To use this project, follow these steps:
 1. Run the program and select an option from the menu.
 2. Provide the required inputs as prompted by the application.
 3. View the results directly in the console.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-## Contact
-
-For any questions or issues, please reach out to (mailto:rajuarjesh10121@gmail.com).
